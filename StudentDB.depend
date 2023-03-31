@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680283460 source:m:\embedded systems\amit\c-project\studentdb\functions.c
+	"functions.h"
+
+1680283398 m:\embedded systems\amit\c-project\studentdb\functions.h
+
+1680283398 source:m:\embedded systems\amit\c-project\studentdb\main.c
+	<stdio.h>
+	"functions.h"
+
